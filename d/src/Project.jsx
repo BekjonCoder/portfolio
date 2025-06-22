@@ -11,7 +11,7 @@ const projects = [
     title: "Portfolio Website",
     description: "Personal portfolio site showcasing skills, projects and contact form.",
     tech: "React, Tailwind, EmailJS",
-    link: "#",
+    link: "https://portfolio-39se.vercel.app/",
   },
 ];
 

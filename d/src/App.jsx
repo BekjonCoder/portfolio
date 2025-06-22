@@ -7,7 +7,7 @@ import About from './About'
 import Skills from './Skills'
 import Projects from './Project'
 
-const Portfolio = () => {
+const App = () => {
   return (
     <>
     <Navbar/>
@@ -20,4 +20,4 @@ const Portfolio = () => {
   )
 }
 
-export default Portfolio
+export default App

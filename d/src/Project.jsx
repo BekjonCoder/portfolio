@@ -8,10 +8,10 @@ const projects = [
     link: "https://pomodoro-sigma-ten.vercel.app/"
   },
   {
-    title: "Portfolio Website",
-    description: "Personal portfolio site showcasing skills, projects and contact form.",
-    tech: "React, Tailwind, EmailJS",
-    link: "https://portfolio-39se.vercel.app/",
+    title: "Online store",
+    description: "This is made with React and all techniques have responsive design.",
+    tech: "React, Tailwind",
+    link: "https://store-xi-seven-80.vercel.app/",
   },
 ];
 
